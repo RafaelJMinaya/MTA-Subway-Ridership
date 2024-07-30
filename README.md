@@ -4,9 +4,9 @@ New York City’s Metropolitan Transportation Authority (MTA) Subway system oper
 
 <br>
 
-![image](https://github.com/user-attachments/assets/df8fdb7d-000c-445f-a0c5-0a164fd43384)
+![image](https://github.com/user-attachments/assets/980ea624-24e8-4b69-abfc-b723f8a16894)
 
-![image](https://github.com/user-attachments/assets/84fbdaa9-b223-4917-831b-41bfbe00e430)
+![image](https://github.com/user-attachments/assets/30c4f6da-f6ef-41d7-8750-2bdb77893fcf)
 
 <br>
-Link to full interactive dashboard: https://app.powerbi.com/groups/me/reports/581c8f2f-f815-40a4-99ed-b8644ba4f531/4f2f8e161ce85564941c?experience=power-bi
+Link to interactive dashboard: https://app.powerbi.com/groups/me/reports/581c8f2f-f815-40a4-99ed-b8644ba4f531/4f2f8e161ce85564941c?experience=power-bi
