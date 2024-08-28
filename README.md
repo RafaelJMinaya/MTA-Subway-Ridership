@@ -5,7 +5,7 @@ New York City's Metropolitan Transportation Authority (MTA) Subway system, one o
 
 My analysis highlights the dramatic shifts in ridership, showcasing substantial decreases post-2020, with annual figures struggling to rebound to their pre-pandemic levels. To accomplish this, we developed a data pipeline capable of handling vast datasets sourced from official city government platforms. Key technologies and tools employed include:
 
-* Python: Utilized for extensive data cleaning and transformation processes to ensure accuracy and consistency between datasets.
+* Python: Utilized extensive data cleaning and transformation processes to ensure accuracy and consistency between datasets.
 * SQL Server: Employed for efficient data storage, management, and querying, allowing for seamless data preparation.
 * Power BI: Used for creating comprehensive visualizations and reports to effectively communicate insights and trends.
 
