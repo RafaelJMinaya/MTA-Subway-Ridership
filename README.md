@@ -17,7 +17,7 @@ This project not only illuminates how external factors have reshaped public tran
 
 <br>
 
-## Dashboard
+## Dashboards
 *2023 Ridership Overview*
 ![image](https://github.com/user-attachments/assets/980ea624-24e8-4b69-abfc-b723f8a16894)
 *Pandemic Impact Ridership Overview*
